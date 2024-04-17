@@ -1,6 +1,8 @@
 # Variational Pansharpening Based on Coefficient Estimation with Nonlocal Regression
+[Jin-Liang Xiao](https://jin-liangxiao.github.io/), Ting-Zhu Huang*, [Liang-Jian Deng*](https://liangjiandeng.github.io/), [Zhong-Cheng Wu](https://zhongchengwu.github.io/), [Xiao Wu](https://xiaoxiao-woo.github.io/), and [Gemine Vivone](https://sites.google.com/site/vivonegemine/home-page)
+[IEEE Transactions on Geoscience and Remote Sensing, 2023.](https://ieeexplore.ieee.org/document/10218368)
 
-**Homepage:**  https://jin-liangxiao.github.io/
+**Homepage:**  https://liangjiandeng.github.io/   https://jin-liangxiao.github.io/ 
 
 # How to use?
 - Directly run: ``demo.m`` 
